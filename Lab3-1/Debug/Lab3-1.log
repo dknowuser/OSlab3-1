@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\labs\os\lab3-1\lab3-1\source.cpp(72): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\labs\os\lab3-1\lab3-1\source.cpp(72): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+d:\labs\os\lab3-1\lab3-1\source.cpp(73): warning C4293: '<<': shift count negative or too big, undefined behavior
+  Lab3-1.vcxproj -> D:\Labs\OS\Lab3-1\Debug\Lab3-1.exe
+  Lab3-1.vcxproj -> D:\Labs\OS\Lab3-1\Debug\Lab3-1.pdb (Full PDB)
